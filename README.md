@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun projects for beginners
 - 📫 How to reach me: samo.krejan@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have been paid for coding without knowing what git even is
+- ⚡ Fun fact: Joker is Poker with a J
 
 <!---
 hyhmir/hyhmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
